@@ -1,4 +1,4 @@
-```markdown
+
 # AI Evaluation Metrics Spike
 
 **Status:** Completed  
